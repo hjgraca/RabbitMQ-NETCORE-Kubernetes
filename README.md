@@ -1,0 +1,1 @@
+"# RabbitMQ-NETCORE-Kubernetes" 
